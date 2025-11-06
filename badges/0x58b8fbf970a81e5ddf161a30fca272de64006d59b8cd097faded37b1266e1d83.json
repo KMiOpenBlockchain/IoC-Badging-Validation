@@ -9,7 +9,7 @@
   "name": "Software Development",
   "description": "A collection of short online courses covering:\n- Software Development Lifecycle course\n- Object Orientated Design course\n- UML course\n- Java course\n- Design Patterns with Python course\n- Software Architecture course\n- Solid Principles course\n- Pair Programming course\n- APIs and WebServices course\n- DevOps course\n\nTo prove completion of these online courses, the student must provide a copy of the course completion certificates provided by the course provider. We also have access to the Course Provider system and can verifiy % complete.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Software_Development.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

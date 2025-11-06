@@ -9,7 +9,7 @@
   "name": "AI for Social Sciences",
   "description": "AI for Social Science is an open-offering course for LSE students developed in partnership between the Digital Skills Lab and the LSE-incubated AI startup PigeonLine. This 3 module course will introduce AI to students, researchers and professionals, with a focus on practical lessons rather than coding or programming. The goal is to equip you to navigate new and emerging tools that are changing the nature of our work.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/ai_for_social_sciences_9.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xa902927184b1726d26c2a781840bd98d7efcc902be65d1c274ab832a3d7c9bcd",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xa902927184b1726d26c2a781840bd98d7efcc902be65d1c274ab832a3d7c9bcd.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

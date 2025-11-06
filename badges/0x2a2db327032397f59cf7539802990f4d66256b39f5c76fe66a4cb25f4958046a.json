@@ -9,7 +9,7 @@
   "name": "UoH-IOC Artificial Intelligence Skills Bootcamp",
   "description": "This digital badge confirms successful completion of the 16 week UOH-IOC AI Skills Bootcamp in March 2022. Topics studied included algorithms, python programming, machine learning, data preparation, feature extraction, language processing. Applications included creating a spam filter and a chat bot, using machine learning for inventory control and robotics for warehousing. The course began on the 8th of November and ended on the 31st of March.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xef641eaa7ab273e57ce718ca501483ae80ec24a40ccfd66dbeaca2c761e641c6/artificial_intelligence_39.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x57a19a9479a52047df5c11f747083e5e34f87f2c1f113361fa70e6d2b23431df",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x57a19a9479a52047df5c11f747083e5e34f87f2c1f113361fa70e6d2b23431df.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -29,7 +29,7 @@
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x40e3997741d5b4628f823a9919f5bc5d7bd9fa6324ac2286905300627c0367bb",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x40e3997741d5b4628f823a9919f5bc5d7bd9fa6324ac2286905300627c0367bb.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

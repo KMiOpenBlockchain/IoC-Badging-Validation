@@ -9,7 +9,7 @@
   "name": "Agile Project Management",
   "description": "Participants will undertake the Agile PM Foundation and Practitioner Accredited Certification, which provides an introduction to the Agile methodology and the core principles needed for a successful Agile project. Participants will understand the 12 principles of Agile training and how to implement them into projects and their daily thought-process. Topics covered will include roles and responsibilities, agile lifecycles, processes and products, communication, iterative development, prioritisation and time boxing, maintaining control, anticipating and managing risk, requirements and estimating, planning and quality.\n\nThis course is an accrediated certification from KPMG, to prove completion of this course, the students must provide a copy of the exam pass certificate. The foundation exam is multiple choice, 50 questions per paper\n25 marks required to pass (out of 50 available) - 50%\n40 minute duration, closed-book. The Practitioner exam is Objective examination. 4 questions (20 points per question). 40/80 points required to pass the exam (50%).\nDuration 2.5 hours, open book (only the official AgilePM manual is allowed).\n\nIn addition, participants will undertake supplementary topics on Comparing Agile and Waterfall PM techniques, Running Agile at Scale and Business Analyst and Project Manager Collaboration.\n\nTo prove completion of these online courses, the student must provide a copy of the course completion certificates provided by the course provider. We also have access to the Course Provider system and can verifiy % complete.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Agile_Project_Management.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of knowledge at silver level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xec967155bd357d98055b0b759681d71fb2d120be5ebb850e87b60b3ea2a498d7",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xec967155bd357d98055b0b759681d71fb2d120be5ebb850e87b60b3ea2a498d7.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

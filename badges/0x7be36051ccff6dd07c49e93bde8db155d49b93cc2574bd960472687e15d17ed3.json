@@ -9,7 +9,7 @@
   "name": "Sign up to the IoC newsletter",
   "description": "This badge is an award for people who attend the Institute of Coding (IoC) Conference 2020 and sign up for the IoC newsletter.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/ioc/ioconference2020_newsletter.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

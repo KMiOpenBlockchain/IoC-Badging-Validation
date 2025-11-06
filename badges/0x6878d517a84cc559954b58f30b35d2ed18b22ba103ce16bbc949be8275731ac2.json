@@ -9,7 +9,7 @@
   "name": "Python for Accounting",
   "description": "This is a three part introductory coding workshop series on the basics of using Python for Accounting/Finance purposes. These sessions train participants in using Python to download financial data, analysing data and visualising data by solving a series of tasks in teams by applying knowledge from online courses, using web searches and getting support from trainers. The libraries used in the workshops are pandas_datareader, pandas, matplotlib and seaborn.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/python_for_accounting_7.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x183d283a62ffc523dcb46bb021bebfdac9488580b65d506dcf79eedd628b0340",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x183d283a62ffc523dcb46bb021bebfdac9488580b65d506dcf79eedd628b0340.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

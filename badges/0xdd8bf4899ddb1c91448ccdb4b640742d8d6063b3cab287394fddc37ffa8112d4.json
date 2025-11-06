@@ -9,7 +9,7 @@
   "name": "ManMetHacks 2.0",
   "description": "ManMetHacks 2.0 is a Manchester based hackathon run out of Manchester Metropolitan University by the HelloHackers society. Over the course of 24 hours attendees will work in teams to complete challenges such as games and apps, set to them by various sponsors.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/mmu/mmu_manmethack_2020.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x81b00417818076f44934d58df33c54b3fce337a483ec66f75bc95addd90b5e1e",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x81b00417818076f44934d58df33c54b3fce337a483ec66f75bc95addd90b5e1e.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

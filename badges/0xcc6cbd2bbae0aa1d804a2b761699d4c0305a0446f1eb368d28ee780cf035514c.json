@@ -9,7 +9,7 @@
   "name": "Durham Residential Weekend",
   "description": "Participants will attend a two day residential weekend at Durham University where participants will be welcomed onto the programme. Sessions will include speakers Prof. Sue Black, Donna Herdsman, CircusMum and Adah Parris. Topics covered will include programme housekeeping, blogging, mentoring and self confidence. Participants will complete a 60 second mini presentation in front of their peers introducing themselves and why they have chosen to participate in the TechUP programme.\n\nStudents must attend at least 100% of the weekend to qualify for the attendance badge, this is verified using the sign in sheets.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Durham_Res_weekend.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

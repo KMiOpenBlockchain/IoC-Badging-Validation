@@ -9,7 +9,7 @@
   "name": "Cybersecurity",
   "description": "This online course helps particpants understand online security and protecting their digital life, whether at home or work.\nParticipants will learn how to recognise threats that could harm them online and how to take steps to protect themselves.\nThe course will frame online safety in the context of the wider world, introducing concepts like malware, viruses, trojans, network security, cryptography, identity theft and risk management.\nThe course was supported by the UK Government's National Cyber Security Programme, is GCHQ Certified Training and IISP accredited.\n\nTo prove completion of this online course, the student must provide a copy of the course completion certificate provided by the course provider. We also have access to the Course Provider system and can verifiy % complete and level of interaction with the course if there is any doubt about the level of engagement.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Cybersecurity.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

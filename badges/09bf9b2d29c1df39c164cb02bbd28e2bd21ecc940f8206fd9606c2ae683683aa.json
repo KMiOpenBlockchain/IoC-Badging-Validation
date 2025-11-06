@@ -9,7 +9,7 @@
   "name": "Artificial Intelligence",
   "description": "This is a one week course that builds upon an existing knowledge of coding, to learn more about programming, machine learning and Artificial Intelligence with Python.  This course explores the use of AI and machine learning in a wider context, considering some of the implications of AI for society through a series of expert lectures providing different perspectives regarding the application on these computational tools.  An additional thread running through the week is a more detailed and practical introduction to ideas in machine learning, focusing on classification, clustering and generalisation.  Some background in programming in any language is required to participate in this course.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/exeter/artificial_intelligence.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x0e7e6ce47f0f3c37794c05d327928822967c8fe1d974f7cffb03de7db0e464ed",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x0e7e6ce47f0f3c37794c05d327928822967c8fe1d974f7cffb03de7db0e464ed.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

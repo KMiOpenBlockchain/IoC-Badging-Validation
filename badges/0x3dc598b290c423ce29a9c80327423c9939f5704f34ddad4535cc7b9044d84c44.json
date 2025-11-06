@@ -9,7 +9,7 @@
   "name": "Data Analytics and Visualisation (MISDI Code Camp 2021)",
   "description": "The MISDI Code Camp 2021 was delivered via a combination of online synchronous lectures, events, and independent group work and self-study. Working in groups of two, attendees applied their skills to a different dataset each day, based on the popular Makeover Monday social data weekly challenge. \n\nOver the week, attendees developed a small portfolio of 3 pieces of work showcasing their data analysis and visualisation skills, before applying all of their learning to a final project at the end of the week. For their final project, attendees and their partner visualised a dataset related to airline seat price evaluation and marketing before sharing their project with the rest of the MISDI team.\n",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/data_visualisation_track_misdi_code_camp_2021_25.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x7be304e1bac32c9a7f31d8bdd2596c0a6d9a2fa42f52d08e7933c6c12ccc6b54",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x7be304e1bac32c9a7f31d8bdd2596c0a6d9a2fa42f52d08e7933c6c12ccc6b54.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

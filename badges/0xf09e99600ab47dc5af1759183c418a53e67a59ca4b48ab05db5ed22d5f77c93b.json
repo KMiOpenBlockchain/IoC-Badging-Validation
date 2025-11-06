@@ -9,7 +9,7 @@
   "name": "Coding Boot Camp",
   "description": "This is a one week intensive coding boot camp to boost participant's computational skills and learn how to formulate and solve problems by using algorithmic thinking and collaborative programming.  This course is taught using Python.  The course begins with writing simple python scripts, and then builds on participants' programming skills by learning algorithms, functions, lists, loops, conditions, reading and writing files, finding bugs and displaying results using graphs.  At the end of the week, participants complete a fun group project by applying skills they have learnt to solve real-life problems using python programming.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/exeter_coding_boot_camp_2020.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xcce9253bc855e1479618b3b63cb45fe5ce820ebd3d25e3318c1370ff80bd0ad2",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xcce9253bc855e1479618b3b63cb45fe5ce820ebd3d25e3318c1370ff80bd0ad2.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

@@ -9,7 +9,7 @@
   "name": "R for Data Science",
   "description": "The R for Data Science workshops are a series of practical workshops taking students through the fundamental skills needed to use R, wrangle data using tools such as the Tidyverse, and visualise data using ggplot2. Each workshop has a series of exercises and challenges where students either write their own code or debug code that has been provided to get the desired outcome. \n\nDuring the series, students first learn the fundamentals of R including the different data types, how to work with directories to load data, how to use functions, subsetting and indexing, as well as how to use conditional logic. Then students learn data wrangling skills, with a focus on working with data frames and using the Tidyverse ecosystem; this includes working with relational datasets and aggregating data. Finally, students learn how to tell a story of their data through visualisation using ggplot2; this includes how to build visualisations, make a variety of different figures, utilising general rules and tips on data visualisation. ",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/r_for_data_science_56.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x8dde41416de24b97b6ac102c65cc678029c9afeb18a0c559b078763a28c21bf6",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x8dde41416de24b97b6ac102c65cc678029c9afeb18a0c559b078763a28c21bf6.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

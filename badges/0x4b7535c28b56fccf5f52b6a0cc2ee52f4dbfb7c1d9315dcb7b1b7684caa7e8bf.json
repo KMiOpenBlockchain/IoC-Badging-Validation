@@ -9,7 +9,7 @@
   "name": "Ou(R) Study Groups",
   "description": "This course consists of a series of workshops where students work in groups on open-ended R projects to prepare for 2nd and 3rd year Statistics courses. In order to solve the project successfully, students require an understanding of basic programming techniques like variables, conditionals, loops, and writing functions and how to use libraries in R to apply specific statistical techniques.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/st160p_projects_79.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x779648a1c8442bef746c97207575504f6032ed16dafd4f69e59b2b5d3b395c6e",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x779648a1c8442bef746c97207575504f6032ed16dafd4f69e59b2b5d3b395c6e.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

@@ -9,7 +9,7 @@
   "name": "Cloud Computing & Data Analytics",
   "description": "Institute of Coding - Skills Bootcamp Completion Badge - Edge Hill University - Cloud Computing and Data Analysis Skills Bootcamp. Edge Hill University's Computer Science Department is a consortium member of the University of Bath's Institute of Coding (IoC) and have devised a digital skills Bootcamp to run as part of the IoC's Department for Education (DfE) Lot Two national delivery model. The DfE model is designed to upskill and develop eligible learners who are seeking new career employment opportunities (or developing new products/services if self-employed, or developing new projects, roles, responsibilities if being staff developed by current employer) in Cloud Computing and Data Analytics areas of digital data/business employment. The main topics covered on the Bootcamp are: Beginner's & Advanced Python, Fundamentals of Computer Science, Advanced Data Science, Database Basics, Natural Language Processing, Cloud Computing Basics & Cloud Computing for Analytics and an Introduction to Artificial Intelligence and Machine Learning. The 16-week course is divided into three terms and delivers an industry informed curriculum. While the first term subjects introduces the fundamentals of data science and programming, the learning in the subsequent terms takes learners to intermediate and advance levels of applied data analytics and cloud computing. Four half-day online residentials, built in within the 16-week period, deliver sessions on confidence building, employability skills as well as hosting employers panels and industry guest speakers. The dates of the Bootcamps are from 06/09/2021-10/12/2021 (SB1), 08/11/2021-25/02/2022 (SB2), 06/06/2022-23/09/2022 (SB3).",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x0055030573eb6f2137150d904fc54de2be5fdd94b762bf45cc39fc069ff64591/edge_hill_university___skills_bootcamp_badge__2_27.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xab6ada08964528dba01fb5fd274c80dc187839b4fcd825e4a809902833952b74",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xab6ada08964528dba01fb5fd274c80dc187839b4fcd825e4a809902833952b74.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -29,7 +29,7 @@
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x86dbc046959c5110abecbe72587150eabdac03a5a09067951f72b7ea5947d38c",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x86dbc046959c5110abecbe72587150eabdac03a5a09067951f72b7ea5947d38c.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

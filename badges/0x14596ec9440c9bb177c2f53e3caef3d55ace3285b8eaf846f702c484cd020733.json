@@ -9,7 +9,7 @@
   "name": "Testing Finalise",
   "description": "Testing finalise is working",
   "image": "https://www.gstatic.com/webp/gallery3/1.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xc15505bddaa06accbce64243b1e8619f56589a75672cf1592a923f431b3599ff",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xc15505bddaa06accbce64243b1e8619f56589a75672cf1592a923f431b3599ff.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of knowledge at gold level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x117e6c6c29ace91ef02d8c4793fe7dc2c67a3146936cc91a60a810204c467079",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x117e6c6c29ace91ef02d8c4793fe7dc2c67a3146936cc91a60a810204c467079.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

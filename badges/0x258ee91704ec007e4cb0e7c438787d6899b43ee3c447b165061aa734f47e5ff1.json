@@ -9,7 +9,7 @@
   "name": "Python Data Visualisation",
   "description": "The 3-part Python Data Visualisation series teaches learners how to use the most popular libraries to generate visualisations in Python. After having completed this series, learners will be able to create and customise line, scatter, bar plots and histograms with matplotlib. They will also learn how to create visualisations with pandas and seaborn.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_data_visualisation_45.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xc34ea3498d9188a035fee48dea56ae2941aaa6290646cacf8e8cf99a9839374c",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xc34ea3498d9188a035fee48dea56ae2941aaa6290646cacf8e8cf99a9839374c.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

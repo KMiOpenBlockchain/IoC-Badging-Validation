@@ -9,7 +9,7 @@
   "name": "Python Fundamentals",
   "description": "The 9-part Python fundamentals series teaches you the basic Python skills that form the foundation for any type of programming project. After having completed this series, you will be familiar with the Python syntax, know about some of the built-in functions and objects in Python and will be able to solve basic programming problems independently using lists, if-else, for and while loops, dictionaries, and writing your own functions.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_fundamentals_knowledge_77.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x6267f76b20853cf165f8d89d9be6f1212eb22d05b195b48b988efb8e87cfae28",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x6267f76b20853cf165f8d89d9be6f1212eb22d05b195b48b988efb8e87cfae28.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

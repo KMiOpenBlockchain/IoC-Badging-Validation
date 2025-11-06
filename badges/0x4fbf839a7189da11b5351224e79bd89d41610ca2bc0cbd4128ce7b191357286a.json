@@ -9,7 +9,7 @@
   "name": "IOC-BSU Creative Computing Digital Skills Bootcamp",
   "description": "This digital badge confirms the successful completion of the 12 week BSU-IOC skills bootcamp in Creative Computing. Learners gain skills to embark on a career in creative computing and UX/UI design. Topics studied include User Interface (UI) and User Experience (UX) design, app and web development, product management, presenting and pitching. In addition to core content, learners present and manage a project and participate in employability skills sessions. The course was completed within the time period of September 2021-March 2022.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xf29d4ec7d8952984ad93e80434b260076878e4eac96758c8f1836d463322129f/bsu_ioc_creative_computing_digital_skills_bootcamp_48.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -29,7 +29,7 @@
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x2f91d09e382bfce6361b490c220c8080ff30215e7ec0326626d646c4b0e44a6b",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x2f91d09e382bfce6361b490c220c8080ff30215e7ec0326626d646c4b0e44a6b.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

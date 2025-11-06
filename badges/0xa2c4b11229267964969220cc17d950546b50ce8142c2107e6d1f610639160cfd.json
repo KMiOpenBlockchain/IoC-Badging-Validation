@@ -9,7 +9,7 @@
   "name": "Python for Finance",
   "description": "This is a four part introductory coding workshop series on the basics of using Python for Finance purposes. These sessions train participants in the fundamental programming techniques to use Python for data science, to download, analyse and visualize financial data by solving a series of tasks  by applying knowledge from interactive demonstrations, online courses, using web searches and getting support from trainers. The libraries used in the workshops are numpy, pandas, pandas_datareader and matplotlib. ",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_for_finance_50.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x28adc544f876e03a1bd25bb7913a8bcaf04bdfcbf8e09da70096ac3dabdbc5f5",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x28adc544f876e03a1bd25bb7913a8bcaf04bdfcbf8e09da70096ac3dabdbc5f5.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

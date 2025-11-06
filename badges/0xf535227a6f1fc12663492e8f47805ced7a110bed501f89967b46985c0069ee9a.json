@@ -20,7 +20,7 @@
     "AI",
     "Python"
   ],
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x3081b57eb0af213ed34cb3525fe3ba4a78a02356aa31f20826e3a5575ba91365",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x3081b57eb0af213ed34cb3525fe3ba4a78a02356aa31f20826e3a5575ba91365.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -31,7 +31,7 @@
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xec967155bd357d98055b0b759681d71fb2d120be5ebb850e87b60b3ea2a498d7",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xec967155bd357d98055b0b759681d71fb2d120be5ebb850e87b60b3ea2a498d7.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

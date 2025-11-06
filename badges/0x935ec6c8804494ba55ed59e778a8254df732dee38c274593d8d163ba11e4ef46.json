@@ -9,7 +9,7 @@
   "name": "R for Data Science and Visualisation",
   "description": "The MISDI Code Camp 2023 was delivered via workshops, live coding, independent group work, and self-study. For the first part of the week, the attendees worked through a series of workshops to build up their knowledge. The later part of the week was focused on project work. \n\nAttendees developed a small portfolio of a few pieces of work showcasing their data visualisation skills, through group exercises and their own final project. For their final project, attendees either worked alone or in small groups to create visualisations from the IMDB dataset linked to data about the Bechdel test (how women are represented in films). They presented their visualisations in a poster-style presentation with other attendees and members of the DSL and MISDI team. ",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/r_for_data_science_and_visualisation_74.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xe78155cd4f198d087363fd5de0c267d5b6ac35f7d3d4e6d2b5aabfc53002827c",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xe78155cd4f198d087363fd5de0c267d5b6ac35f7d3d4e6d2b5aabfc53002827c.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

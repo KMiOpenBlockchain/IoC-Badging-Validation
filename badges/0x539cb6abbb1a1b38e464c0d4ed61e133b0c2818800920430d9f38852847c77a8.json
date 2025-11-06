@@ -9,7 +9,7 @@
   "name": "Nottingham Residential and Celebration Weekend",
   "description": "Participants will attend a two day residential weekend at the University of Nottingham where participants will celebrate their acheivements on the programme with our certificate presentation. Sessions will include speakers Jacqueline Rojas, Veronica Pickering, Caroline Criado Perez and Margo Thomas. The weekend will slo include a mini panel on interview techniques, and a negotiation and empowerment workshop. Participants will complete a 60 second mini presentation in front of their peers on what they have enjoyed about the TechUP programme, what a difference it has made and what they are doing next.\n\nStudents must attend at least 100% of the residential weekend to qualify for the attendance badge, this is verified using the sign in sheets.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Nott_Res_Cel_Weekend.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",

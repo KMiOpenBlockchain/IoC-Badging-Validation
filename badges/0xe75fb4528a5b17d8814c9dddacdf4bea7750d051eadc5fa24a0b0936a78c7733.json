@@ -9,7 +9,7 @@
   "name": "Python Data Wrangling",
   "description": "The 5-part Python Data Wrangling series teaches learners how to use the NumPy and Pandas libraries to work with datasets. After having completed this series, learners will be able to use NumPy arrays to carry out arithmetic operations and to create subsets of arrays based on the numbers location or value inside the array. They will also learn how to use the Pandas library to import, inspect and prepare data for data analysis.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_data_wrangling_44.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x3b6f171294ef7c14d6c4a240eb6574a897260d0f02c8777c556b2860bbdf6261",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x3b6f171294ef7c14d6c4a240eb6574a897260d0f02c8777c556b2860bbdf6261.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

@@ -9,7 +9,7 @@
   "name": "Getting started with Colab & Python ",
   "description": "This badge is awarded to Summer School students who have undertaken a set of activities around getting started with Colab and Python as part of the Introduction to Artificial Intelligence and Machine Learning Workshop.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/oucomputing/colabpython2019.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/8b99c5eba035d322638674997ca34f0c8fabdee91ef21def113ffda4ed4f60ec",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/8b99c5eba035d322638674997ca34f0c8fabdee91ef21def113ffda4ed4f60ec.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x0e7e6ce47f0f3c37794c05d327928822967c8fe1d974f7cffb03de7db0e464ed",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x0e7e6ce47f0f3c37794c05d327928822967c8fe1d974f7cffb03de7db0e464ed.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

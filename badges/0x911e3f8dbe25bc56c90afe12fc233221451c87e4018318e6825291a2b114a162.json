@@ -9,7 +9,7 @@
   "name": "Nottingham Residential and Celebration Day 1",
   "description": "Participants will attend day 1 of a two day residential weekend at the University of Nottingham where participants will celebrate their acheivements on the programme with our certificate presentation. Sessions will include speakers Jacqueline Rojas, Veronica Pickering, Caroline Criado Perez and Margo Thomas. The weekend will slo include a mini panel on interview techniques, and a negotiation and empowerment workshop. Participants will complete a 60 second mini presentation in front of their peers on what they have enjoyed about the TechUP programme, what a difference it has made and what they are doing next.\n\nStudents must attend 100% of day 1 to qualify for the attendance badge, this is verified using the sign in sheets.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Nott_Res_Cel_Day1.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xec967155bd357d98055b0b759681d71fb2d120be5ebb850e87b60b3ea2a498d7",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xec967155bd357d98055b0b759681d71fb2d120be5ebb850e87b60b3ea2a498d7.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

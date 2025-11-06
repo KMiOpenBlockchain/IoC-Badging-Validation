@@ -9,7 +9,7 @@
   "name": "Machine Learning with Python for Accounting and Finance",
   "description": "This is a three part workshop series on the basics of machine learning with Python for Accounting/Finance purposes. The first session teaches basic techniques of data exploration and data cleaning with pandas. In the second and third session, students are being introduced to machine learning with scikit-learn. The topics that are being covered include: decision tree classifiers, train-test split, hyper parameter tuning with cross-validation, cross-validation with parameter permutation, and bias-variance tradeoff. In the final step, students apply the model to make predictions. The libraries used in the workshops are pandas, matplotlib, seaborn, and scikit-learn.\n",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/machine_learning_with_python_for_accounting_and_finance_57.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x04964fb7a7f0704ceeebba8b15822f6ba9ab03a3e96184ce961e33c62e631851",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x04964fb7a7f0704ceeebba8b15822f6ba9ab03a3e96184ce961e33c62e631851.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

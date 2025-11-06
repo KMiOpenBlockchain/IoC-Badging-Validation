@@ -9,7 +9,7 @@
   "name": "BSU-IOC Web Development Digital Skills Bootcamp",
   "description": "This digital badge confirms the successful completion of the 12 week BSU-IOC skills bootcamp in Web Development. Students learn skills to embark on a career in web development. Topics studied include HTML5, CSS3, JavaScript and building websites in React. In addition to core content, learners will complete a portfolio and participate in employability skills sessions supported by Bath College. The course was completed within the time period of September 2021-March 2022.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xf29d4ec7d8952984ad93e80434b260076878e4eac96758c8f1836d463322129f/bsu_ioc_web_development_digital_skills_bootcamp_46.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -29,7 +29,7 @@
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xc6a0efdbdedc1b552c355c3882733c3beceb05ab988859c2274e0e3c616e0b94",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xc6a0efdbdedc1b552c355c3882733c3beceb05ab988859c2274e0e3c616e0b94.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

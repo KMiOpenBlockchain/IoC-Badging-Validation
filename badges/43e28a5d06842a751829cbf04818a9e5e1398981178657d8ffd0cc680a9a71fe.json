@@ -9,7 +9,7 @@
   "name": "Social Data Analytics",
   "description": "This is a one week intensive course that explores social data analysis, including statistical concepts and data visualisation and the use of programming for statistical analysis.  Participants learn how to handle data and code using R.  This course also focuses on the application of these tools in societal contexts including measures of public opinion and in the media through contributions made by invited expert speakers.\nCriteria for earning the badge: Participants must attend at least 4 days out of 5 to be awarded the digital badge.\n",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/exeter/social_data_analytics.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x0e7e6ce47f0f3c37794c05d327928822967c8fe1d974f7cffb03de7db0e464ed",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x0e7e6ce47f0f3c37794c05d327928822967c8fe1d974f7cffb03de7db0e464ed.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

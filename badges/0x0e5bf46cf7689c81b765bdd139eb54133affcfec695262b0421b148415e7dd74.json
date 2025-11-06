@@ -13,7 +13,7 @@
     "R",
     "Statistics"
   ],
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -24,7 +24,7 @@
       "targetDescription": "Institute of Coding, non academic, recognition for attaining a set of badges."
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xdd7ac7e3af0fa3449f0a981caf52d3d6ad8fe21a9c25d3f5432b60d20366e9f9",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xdd7ac7e3af0fa3449f0a981caf52d3d6ad8fe21a9c25d3f5432b60d20366e9f9.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

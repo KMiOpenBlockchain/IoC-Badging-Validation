@@ -9,7 +9,7 @@
   "name": "UWE-IOC Cyber Security Bootcamp",
   "description": "This badge confirms successful completion of the 16 week IOC-UWE Cyber Security Skills Bootcamp. The bootcamp was delivered from 8 November 2021 to 25 March 2022 via online lectures, workshops and individual project support. Topics studied included system and web based penetration testing, cyber defence, incident response, malware analysis, and information risk management. ",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x0831e7b009661d48b1be800347f1afa70348acfc256913f77b56e2d4a65de775/cyber_security__30.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x9e33cab05668358331538c2940994ab490616593038fe53b6ef0befdad2f6259",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x9e33cab05668358331538c2940994ab490616593038fe53b6ef0befdad2f6259.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -29,7 +29,7 @@
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xa7b8b6e888b19ead55ea354fa0c0a76dceb71e658de7846032d1592da839f1cf",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xa7b8b6e888b19ead55ea354fa0c0a76dceb71e658de7846032d1592da839f1cf.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

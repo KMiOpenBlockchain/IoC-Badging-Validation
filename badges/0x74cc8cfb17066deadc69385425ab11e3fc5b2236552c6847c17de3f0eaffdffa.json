@@ -9,7 +9,7 @@
   "name": "Health Informatics",
   "description": "This badge is issued to participants of the Continuing Professional Development (CPD) programme on Health Informatics offered remotely between November 2021 and March 2022 and accredited by the UK Faculty of Clinical Informatics.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x6fd8518901d8963a3d8d2c61a30f5b3adaf8785181bb56cb44393b0b2a8b1950/health_informatics_4_0_37.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -28,7 +28,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xd0209e625fe7306ae0479c3ea452778ba065ad86cc3b69c891f0a23c519b0f41",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xd0209e625fe7306ae0479c3ea452778ba065ad86cc3b69c891f0a23c519b0f41.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

@@ -13,7 +13,7 @@
     "R",
     "Statistics"
   ],
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -24,7 +24,7 @@
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xcefeb52b1b4b93b2ae750a3985275b20d65f300e7b72bb3a254b8183a8978f70",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xcefeb52b1b4b93b2ae750a3985275b20d65f300e7b72bb3a254b8183a8978f70.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

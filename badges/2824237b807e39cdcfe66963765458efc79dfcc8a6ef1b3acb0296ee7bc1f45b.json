@@ -9,7 +9,7 @@
   "name": "Getting Started with Coding Bootcamp",
   "description": "This is a three day intensive coding bootcamp on the fundamentals of computer programming, taught using Processing (a dialect of Java). The bootcamp builds participants' programming skills by introducing core constructs - variables, conditionals, loops, basic data structures and functions - as well as the computational thinking necessary to create, debug and adapt simple arcade games.",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/qmu/qmu-ioc-badge-2019.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/63559dcae603ffabc57fbbb90e60df8f8bdc846c30555482970261f8fd666209",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/63559dcae603ffabc57fbbb90e60df8f8bdc846c30555482970261f8fd666209.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
@@ -20,7 +20,7 @@
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
