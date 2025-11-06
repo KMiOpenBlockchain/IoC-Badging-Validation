@@ -1,0 +1,33 @@
+{
+  "@context": [
+    "https://w3id.org/openbadges/v2"
+  ],
+  "@language": "en-gb",
+  "type": "BadgeClass",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xa86f7130fc39389f1cf750b99518737689362063c7450a804745d3549095187f.json",
+  "version": "1.0",
+  "name": "Durham Residential Day 2",
+  "description": "Participants will attend day 2 of a two day residential weekend at Durham University where participants will be welcomed onto the programme. Sessions will include speakers Prof. Sue Black, Donna Herdsman, CircusMum and Adah Parris. Topics covered will include programme housekeeping, blogging, mentoring and self confidence. Participants will complete a 60 second mini presentation in front of their peers introducing themselves and why they have chosen to participate in the TechUP programme.\n\nStudents must attend at least 100% of day 2 to qualify for the attendance badge, this is verified using the sign in sheets.",
+  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Durham_RD2.png",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478",
+  "alignment": [
+    {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "AlignmentObject",
+      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "targetName": "IoC Attendance Alignment",
+      "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
+      "targetDescription": "Institute of Coding recognition of attendance"
+    }
+  ],
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8",
+  "criteria": {
+    "@context": [
+      "https://w3id.org/openbadges/v2",
+      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+    ],
+    "type": "Criteria",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x4fda09249421146316c08e0a7a546b25b0e47381204eaab707801a713cbf470e",
+    "narrative": "Participants must attend day 2 of the weekend in order to be awarded the digital badge."
+  }
+}
